@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c41cf857.css",
-    "main.js": "/static/js/main.c5e44109.js",
+    "main.js": "/static/js/main.78c0aca5.js",
     "static/media/nosotros.png": "/static/media/nosotros.77623503523ddd3ce3f5.png",
     "static/media/img.png": "/static/media/img.1da54e778ccce775521f.png",
     "static/media/ecosistema-logo.gif": "/static/media/ecosistema-logo.9445894b8827722885bb.gif",
     "index.html": "/index.html",
     "main.c41cf857.css.map": "/static/css/main.c41cf857.css.map",
-    "main.c5e44109.js.map": "/static/js/main.c5e44109.js.map"
+    "main.78c0aca5.js.map": "/static/js/main.78c0aca5.js.map"
   },
   "entrypoints": [
     "static/css/main.c41cf857.css",
-    "static/js/main.c5e44109.js"
+    "static/js/main.78c0aca5.js"
   ]
 }
